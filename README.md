@@ -9,7 +9,8 @@ This is the end-to-end implementation of image search engine. The image search e
 ### Getting Started
 
 1. Clone the repository, and navigate to the downloaded folder.
-```https://github.com/argho28/Image-Search-Engine.git
+```
+https://github.com/argho28/Image-Search-Engine.git
 
 ```
 
